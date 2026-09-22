@@ -1,0 +1,6 @@
+name,handle,ORCID,contact,fields,languages,ecr_until,ecr_checked,fediverse
+Fake Codechecker,@fake-codechecker,0000-0000-0000-0002,see ORCID page,testing,Go,NA,NA,@fake_codechecker@example.invalid
+Fake R Codechecker,@a-r-codechecker,0000-0000-0000-0003,see ORCID page,statistics,R,NA,NA,
+Fake Python Codechecker,@a-python-codechecker,0000-0000-0000-0004,fake@example.invalid,software engineering,Python,NA,NA,
+Fake Geo Codechecker,@a-geo-codechecker,0000-0000-0000-0005,see ORCID page,"geospatial data analysis,remote sensing","R, Python",2030-02,2026-08;https://orcid.org/0000-0000-0000-0005,
+Fake ECR Codechecker,@an-ecr-codechecker,0000-0000-0000-0006,see ORCID page,bioinformatics,"Python, Nextflow",2031-09,2026-09;https://orcid.org/0000-0000-0000-0006,
